@@ -1,0 +1,78 @@
+SARAH JOHNSON
+San Francisco, CA | (555) 123-4567 | sarah.johnson@email.com | LinkedIn: /in/sarahjohnson
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Developer with 7+ years of experience building scalable web applications and cloud infrastructure. 
+Expertise in React, Node.js, and AWS. Passionate about clean code, performance optimization, and mentoring junior developers. 
+Successfully led cross-functional teams to deliver high-impact projects within tight deadlines.
+
+PROFESSIONAL EXPERIENCE
+
+Senior Full Stack Developer | TechCorp Inc. | San Francisco, CA | Jan 2021 - Present
+• Architected and built a microservices-based e-commerce platform using React, Node.js, and Docker serving 500K+ monthly users
+• Led team of 5 developers in implementing CI/CD pipelines using Jenkins and GitHub Actions, reducing deployment time by 70%
+• Optimized database queries and API responses using PostgreSQL and Redis, achieving 40% improvement in page load times
+• Implemented comprehensive testing suite using Jest and Cypress with 85%+ code coverage
+• Mentored 3 junior developers, providing code reviews and technical guidance
+• Technologies: React, TypeScript, Node.js, Express, PostgreSQL, Redis, AWS (EC2, S3, Lambda), Docker, Kubernetes, Jenkins
+
+Full Stack Developer | StartupXYZ | San Francisco, CA | Jun 2018 - Dec 2020
+• Built and maintained 15+ customer-facing features for SaaS platform using React, Redux, and Node.js
+• Implemented real-time data synchronization using WebSockets and Socket.io
+• Designed and implemented RESTful APIs serving 100+ concurrent users
+• Migrated monolithic application to microservices architecture on AWS ECS
+• Set up monitoring and logging infrastructure using ELK stack
+• Technologies: React, JavaScript, Node.js, Express.js, MongoDB, AWS, Docker, ELK Stack, WebSockets
+
+Junior Full Stack Developer | DataSolutions LLC | Oakland, CA | Jul 2017 - May 2018
+• Developed full-stack features for data analytics dashboard using Angular and Node.js
+• Created responsive web interfaces using HTML5, CSS3, and jQuery
+• Implemented automated testing using Mocha and Chai
+• Collaborated with UX designers to improve user experience
+• Technologies: Angular, JavaScript, Node.js, MongoDB, MySQL, HTML5, CSS3
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley | Berkeley, CA | Graduated: May 2017
+GPA: 3.7/4.0 | Dean's List: 2015-2017
+
+Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development, Cloud Computing, Software Engineering
+
+TECHNICAL SKILLS
+
+Programming Languages: JavaScript, TypeScript, Python, HTML5, CSS3, SQL
+Frontend: React, Redux, Vue.js, Angular, Responsive Design, Material-UI, Bootstrap
+Backend: Node.js, Express.js, Django, REST APIs, GraphQL
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Google Cloud Platform, Docker, Kubernetes, Docker Compose
+Tools & Platforms: Git, GitHub, Jenkins, CircleCI, GitHub Actions, JIRA, Trello
+Testing: Jest, React Testing Library, Cypress, Mocha, Chai, Postman
+Other: Linux/Unix, Nginx, Apache, SSL/TLS, RESTful Architecture, Microservices, Agile/Scrum
+
+CERTIFICATIONS & ACHIEVEMENTS
+
+• AWS Certified Solutions Architect - Associate (2022)
+• Completed Google Cloud Professional Cloud Developer Certification (2021)
+• Speaker at React Conference 2022 - "Optimizing Large-Scale React Applications"
+• Open Source Contributor - React ecosystem (200+ GitHub stars across projects)
+
+PROJECTS & ACHIEVEMENTS
+
+E-Commerce Platform Redesign (2022)
+• Led complete redesign of legacy platform resulting in 50% increase in conversion rate
+• Implemented new payment processing system supporting multiple currencies
+• Result: $2M+ additional revenue in first quarter post-launch
+
+Real-time Analytics Dashboard (2021)
+• Built real-time data visualization dashboard handling 1M+ events per day
+• Implemented WebSocket connections for live data updates
+• Achieved 99.9% uptime with automated scaling on AWS
+
+Performance Optimization Initiative (2020)
+• Reduced application bundle size by 45% through code splitting and lazy loading
+• Improved Core Web Vitals scores achieving 95+ Lighthouse performance rating
+• Implemented caching strategies reducing server load by 60%
+
+LANGUAGES
+English: Native | Spanish: Intermediate | Mandarin Chinese: Beginner
